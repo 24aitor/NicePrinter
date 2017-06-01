@@ -94,7 +94,7 @@ def listing(head, array, vsym = '|', hsym = '=', centered = False, boldHead = Tr
 
     export += center(bar) if (centered) else (bar)
 
-    var =  vsym + ' '
+    var =  vsym
     for index, value in enumerate(array):
         var = (vsym + ' ') if (centered) else ("\n" + vsym + ' ')
         val = bold(value) if (index == 0 and boldHead) else value

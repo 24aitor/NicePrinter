@@ -1,8 +1,9 @@
 <h1 align="center">Nice Printer</h1>
 
 <p align="center">
-    <a href="https://github.com/24aitor/niceprinter/releases"><img src="https://poser.pugx.org/aitor24/niceprinter/v/stable.svg" alt="Version"></a>
-    <a href="https://raw.githubusercontent.com/24aitor/niceprinter/master/LICENSE"><img src="https://poser.pugx.org/aitor24/niceprinter/license.svg" alt="License"></a>
+<a href="https://github.com/24aitor/niceprinter/releases"><img src="https://img.shields.io/github/release/24aitor/NicePrinter.svg" alt="License"></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Built%20For-Python%203.X-orange.svg" alt="License"></a>
+    <a href="https://raw.githubusercontent.com/24aitor/NicePrinter/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
 </p>
 
 ## What is Nice Printer?
@@ -16,11 +17,9 @@ nice outputs on your shell easily.
 
 ![](http://i.imgur.com/uGMzMvK.png)
 
-![](http://i.imgur.com/qu6lf0c.png)
+![](http://i.imgur.com/jaLykwa.png)
 
-![](http://i.imgur.com/Tg1uD5m.png)
-
-
+![](http://i.imgur.com/jaLykwa.png)
 ## API
 
 - underline(string)

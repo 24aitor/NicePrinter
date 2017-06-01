@@ -19,7 +19,7 @@ nice outputs on your shell easily.
 
 ![](http://i.imgur.com/jaLykwa.png)
 
-![](http://i.imgur.com/jaLykwa.png)
+![](http://i.imgur.com/K4N2mK7.png)
 ## API
 
 - underline(string)

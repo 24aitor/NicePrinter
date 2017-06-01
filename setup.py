@@ -11,12 +11,12 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='Nice Printer',
+    name='NicePrinter',
 
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='1.0.0',
+    version='1.0.3',
 
     description='A simple Python project to generate nice prints',
     long_description=long_description,
@@ -41,7 +41,7 @@ setup(
 
         # Indicate who your project is intended for
         'Intended Audience :: Developers',
-        'Topic :: Software Development :: Generate Nice Prints',
+        'Topic :: Software Development :: Build Tools',
 
         # Pick your license as you wish (should match "license" above)
         'License :: OSI Approved :: MIT License',
@@ -51,6 +51,9 @@ setup(
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
     ],
+
+    packages=['NicePrinter'],
+    package_dir={'NicePrinter': 'src/NicePrinter'},
 
     # What does your project relate to?
     keywords='print shell',

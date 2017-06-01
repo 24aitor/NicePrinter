@@ -1,9 +1,9 @@
 Nice Printer
 ============
 
-.. image:: https://img.shields.io/github/release/24aitor/NicePrinter.svg      :target: https://github.com/24aitor/niceprinter/releases
-.. image:: https://img.shields.io/badge/Built%20For-Python%203.X-orange.svg   :target: https://www.python.org
-.. image:: https://img.shields.io/badge/license-MIT-blue.svg   :target: https://raw.githubusercontent.com/24aitor/NicePrinter/master/LICENSE
+.. image:: https://img.shields.io/github/release/24aitor/NicePrinter.svg
+.. image:: https://img.shields.io/badge/Built%20For-Python%203.X-orange.svg
+.. image:: https://img.shields.io/badge/license-MIT-blue.svg
 
 What is Nice Printer?
 ---------------------

@@ -16,12 +16,12 @@ How to install?
 
 This package is uploaded to pypa.io so you can install it running pip.
 
-..code:: bash
+.. code:: bash
     pip install niceprinter
 
 Then in the file you want to use this package, you should import niceprinter.
 
-..code:: python
+.. code:: python
     from NicePrinter import *
 
 And now you can use the functions available on `API`_.
